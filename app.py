@@ -51,7 +51,7 @@ styles = {
 app.layout = html.Div([
         html.Div([
             html.H3('Louvain Cluster'),
-            dcc.Graph(
+            dcc.Graph(style={'height': '800px', 'width':'900px'},
             id='g1', figure={
                 'data': [
                     go.Scatter(
@@ -76,7 +76,8 @@ app.layout = html.Div([
         ]),
         html.Div([
             html.H3('Gene Expression'),
-            dcc.Graph(id='g2'),
+            dcc.Graph(id='g2',
+                style={'height': '800px', 'width':'900px'}),
     
         html.Div([  ###### this add the selection option below the gene ############################## expression graph
             dcc.Input(id='my-id', value='enter a gene ID', type='text'),
