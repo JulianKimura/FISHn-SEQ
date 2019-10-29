@@ -15,7 +15,7 @@ Before running the analysis script, make sure to include a 'data' and 'figures' 
 Place the count and metadata matrices in the data folder. The Script assumes that the raw data files are placed there. All figures will be saved into the figures folder. 
 
 ```
-mkdir Project
-cd Project
+mkdir analysis
+cd analysis
 mkdir data figures
 ```
