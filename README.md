@@ -10,7 +10,8 @@ Final project by Daniel Diaz, Nicole Fisher, Julian Kimura, Augusto Diniz, Luca 
 
 For the count and metadata matrices used in our analysis, go here:  https://github.com/farrellja/URD/tree/master/Analyses/QuickStart/data
 
-
+Original publication (Farrell et al 2018) can be found here:
+https://science.sciencemag.org/content/360/6392/eaar3131.editor-summary
 
 
 
