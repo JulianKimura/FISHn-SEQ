@@ -1,4 +1,7 @@
-![](download (1).jpeg)
+
+
+![GitHub Logo](download (1).jpeg)
+Format: ![Alt Text](url)
 
 # FISHn-SEQ
 Facilitative Illustration by/for Stupid Humans:   
