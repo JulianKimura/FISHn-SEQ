@@ -14,8 +14,8 @@ For the count and metadata matrices used in our analysis, go here:  https://gith
 Before running the analysis script, make sure to include a 'data' and 'figures' folder in the same directory as the analysis script.
 Place the count and metadata matrices in the data folder. The Script assumes that the raw data files are placed there. All figures will be saved into the figures folder. 
 
-'''
+```
 mkdir Project
 cd Project
 mkdir data figures
-'''
+```
